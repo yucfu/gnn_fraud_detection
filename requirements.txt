@@ -1,0 +1,10 @@
+numpy
+pandas
+tqdm
+sklearn
+scipy
+matplotlib
+# pip install torch-geometric-temporal
+
+# torch: https://pytorch.org/get-started/locally/
+# torch geometric: https://pytorch-geometric.readthedocs.io/en/latest/install/installation.html
